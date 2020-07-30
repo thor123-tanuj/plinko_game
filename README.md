@@ -1,2 +1,2 @@
-# plinko_game
-plinko game made in visual code studo
+# p5.play-boilerplate
+Boiler plate for p5.play
